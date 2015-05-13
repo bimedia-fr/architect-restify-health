@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bimedia-fr/architect-restify-health/issues"
   },
-  "homepage": "https://github.com/bimedia-fr/architect-restify-health"
+  "homepage": "https://github.com/bimedia-fr/architect-restify-health",
+  "dependencies": {
+    "access-log": "^0.3.9"
+  }
 }
